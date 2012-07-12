@@ -1,0 +1,3 @@
+# Config
+
+Store configuration there.
