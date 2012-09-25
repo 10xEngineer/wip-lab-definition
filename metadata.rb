@@ -1,7 +1,7 @@
 maintainer "Radim Marek"
 maintainer_email "radim@10xengineer.me"
 
-use "TenxLabs::ChefHandler"
+use "TenxLabs::Handlers::Chef"
 
 # resource pools are bound to lab/component level
 # granular resource allocation possible via component composition
